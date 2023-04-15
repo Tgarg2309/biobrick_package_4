@@ -1,2 +1,6 @@
-^mypkgname\.Rproj$
+^iGEM2023Group4\.Rproj$
 ^\.Rproj\.user$
+^iGEM2023Group4\.Rcheck$
+^iGEM2023Group4.*\.tar\.gz$
+^iGEM2023Group4.*\.tgz$
+^LICENSE\.md$
